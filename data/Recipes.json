@@ -1,0 +1,90 @@
+[
+    {
+        "recipe_id": 1,
+        "name": "Velumire Vegetable Stew",
+        "ingredients": {
+            "potato": 3,
+            "carrot": 2,
+            "onion": 1,
+            "magic_broth": 1
+        },
+        "prep_time_minutes": 45,
+        "instructions": [
+            "Peel and chop the potatoes and carrots into pixel-perfect cubes.",
+            "Sauté the onion until it turns transparent.",
+            "Add vegetables and magic broth.",
+            "Simmer on low heat while debugging your code."
+        ],
+        "description": "A hearty, glitch-free stew perfect for cold server rooms."
+    },
+    {
+        "recipe_id": 2,
+        "name": "Glitch-Seared Salmon",
+        "ingredients": {
+            "salmon_fillet": 2,
+            "lemon": 1,
+            "dill": 1,
+            "rice": 200
+        },
+        "prep_time_minutes": 25,
+        "instructions": [
+            "Cook the rice until fluffy.",
+            "Sear the salmon skin-Side down until crispy.",
+            "Garnish with lemon and dill.",
+            "Serve immediately before the texture loads incorrectly."
+        ],
+        "description": "A fancy flexitarian dish with high-resolution flavor."
+    },
+    {
+        "recipe_id": 3,
+        "name": "8-Bit Blueberry Pancakes",
+        "ingredients": {
+            "flour": 200,
+            "milk": 250,
+            "egg": 2,
+            "blueberries": 50
+        },
+        "prep_time_minutes": 20,
+        "instructions": [
+            "Mix flour, milk, and eggs into a smooth batter.",
+            "Fold in the blueberries gently.",
+            "Fry in a pan until bubbles appear on the surface.",
+            "Stack them high like a data structure."
+        ],
+        "description": "Sweet breakfast discs to restore MP (Mana Points)."
+    },
+    {
+        "recipe_id": 4,
+        "name": "Debug Green Curry",
+        "ingredients": {
+            "tofu": 200,
+            "curry_paste": 2,
+            "coconut_milk": 1,
+            "rice": 200
+        },
+        "prep_time_minutes": 35,
+        "instructions": [
+            "Press the tofu to remove excess water.",
+            "Fry the curry paste until fragrant.",
+            "Add coconut milk and bring to a simmer.",
+            "Add tofu and serve over rice."
+        ],
+        "description": "Spicy enough to clear your sinuses and your error logs."
+    },
+    {
+        "recipe_id": 5,
+        "name": "Potion of Wakefulness",
+        "ingredients": {
+            "coffee_bean": 20,
+            "hot_water": 250,
+            "sugar": 1
+        },
+        "prep_time_minutes": 5,
+        "instructions": [
+            "Grind the beans.",
+            "Pour hot water over the grounds.",
+            "Add sugar if your energy is critically low."
+        ],
+        "description": "Essential Fluid for late-night coding sessions."
+    }
+]
